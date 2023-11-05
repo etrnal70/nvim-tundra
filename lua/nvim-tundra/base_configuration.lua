@@ -55,6 +55,7 @@ local base_configuration = {
     gitsigns = false,
     neogit = false,
     textfsm = false,
+    glance = false,
   },
   overwrite = {
     colors = {},
